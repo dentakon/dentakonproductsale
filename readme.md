@@ -1,5 +1,5 @@
 ### OXID 6 example module
-A simple and basic OXID 6 module. 
+A OXID 6 module which shows sales information on articles
 
 ## Install via composer
 
