@@ -1,0 +1,37 @@
+{
+    "name":        "dentakon/dentakonproductsale",
+    "description": "",
+    "type":        "oxideshop-module",
+    "keywords":    [
+        "oxid",
+        "modules",
+        "eShop",
+        "Editor"
+    ],
+    "homepage":    "https://www.dentakon.de",
+    "license":     [
+        "GPL-3.0",
+        "proprietary"
+    ],
+    "authors":     [
+        {
+            "name":  "David Hennig | Dentakon e.K.",
+            "email": "davidhennig@dentakon.de"
+        }
+    ],
+    "extra":       {
+        "oxideshop": {
+            "target-directory": "dentakon/dentakonproductsale"
+        }
+    },
+    "require":     {
+        "php": ">=5.6"
+    },
+    "autoload":    {
+        "psr-4": {
+            "dentakon\\dentakonProductSale\\": "../../../source/modules/dentakon/dentakonproductsale"
+        }
+    }
+}
+
+
