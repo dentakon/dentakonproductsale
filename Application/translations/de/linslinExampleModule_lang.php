@@ -8,7 +8,7 @@ $aLang = [
     'DAY'					        => 'Tag',
     'DAYS'	    					=> 'Tage',
     'ACTION_TITLE'                                      => 'Aktion',
-    'ACTION_LIFETIME'                                   => 'Diese Aktion läuft noch lang',
+    'ACTION_LIFETIME'                                   => 'Diese Aktion läuft noch',
  
 ];
 ?>
