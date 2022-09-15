@@ -18,12 +18,12 @@ $aModule = array(
         'en' => 'SalesDisplay',
     ),
     'description' => array(
-        'de' => '<h2>Modul zu Präsentation von Aktionen am Artikel</h2>',
+        'de' => '<h2>Modul zur Anzeige von Aktionen am Artikel</h2>',
         'en' => '<h2>Module to show actions on articles</h2>',
     ),
     'thumbnail'   => 'out/pictures/',
     'version'     => '1.0.0',
-    'author'      => 'David Hennig | Dentakon dentale Konzepte',
+    'author'      => 'David Hennig | Dentakon dentale Konzepte e.K.',
     'url'         => 'https://www.dentakon.de',
     'email'       => 'davidhennig@dentakon.de',
     'extend'      => array(
